@@ -1,2 +1,2 @@
 # COMP424-AI
-Some resoucese for COMP424 Artificial Intelligence
+Some resources for COMP424 Artificial Intelligence
